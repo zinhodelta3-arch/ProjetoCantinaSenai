@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="categorias_produto">
+
+        <item>Salgados Vitrine</item>
+        <item>Bebidas</item>
+        <item>Doces</item>
+        <item>Lanches Naturais</item>
+        <item>Preparados na Hora</item>
+
+    </string-array>
+
+
+</resources>

@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Cantina Ágil</string>
-    
+
     <!-- Tela Home / Categorias -->
     <string name="welcome_title">Cantina Ágil</string>
     <string name="welcome_subtitle">Totem de Autoatendimento</string>
     <string name="home_instruction">Escolha uma categoria para iniciar o seu pedido</string>
     <string name="cart_button_desc">Acessar o carrinho de compras</string>
-    
+
     <!-- Categorias -->
     <string name="cat_salgados">Salgados Vitrine</string>
     <string name="cat_bebidas">Bebidas</string>
     <string name="cat_doces">Doces &amp; Sobremesas</string>
     <string name="cat_lanches">Lanches Naturais</string>
     <string name="cat_personalizados">Preparados na Hora</string>
-    
+
     <!-- Produtos Simulação -->
     <string name="prod_misto_quente">Misto Quente Especial</string>
     <string name="desc_misto_quente">Pão de forma, presunto, queijo muçarela derretido na chapa.</string>
     <string name="price_misto_quente">R$ 12,90</string>
-    
+
     <string name="prod_pao_ovo">Pão com Ovo</string>
     <string name="desc_pao_ovo">Pão francês crocante com dois ovos na chapa e manteiga.</string>
     <string name="price_pao_ovo">R$ 8,50</string>
-    
+
     <string name="prod_suco_natural">Suco Natural Laranja</string>
     <string name="desc_suco_natural">Suco natural da fruta espremido na hora, copo de 400ml.</string>
     <string name="price_suco_natural">R$ 9,00</string>
-    
+
     <string name="prod_coxinha">Coxinha de Frango</string>
     <string name="desc_coxinha">Coxinha frita recheada com frango desfiado e catupiry.</string>
     <string name="price_coxinha">R$ 7,50</string>
-    
+
     <string name="prod_refrigerante">Refrigerante Lata</string>
     <string name="desc_refrigerante">Lata de Coca-Cola ou Guaraná Antarctica 350ml bem gelado.</string>
     <string name="price_refrigerante">R$ 6,00</string>
@@ -39,7 +39,7 @@
     <!-- Tela de Cardápio -->
     <string name="back_desc">Voltar para a tela anterior</string>
     <string name="add_to_cart_desc">Adicionar produto ao carrinho</string>
-    
+
     <!-- Tela de Carrinho -->
     <string name="cart_title">Seu Carrinho</string>
     <string name="btn_proceed_payment">Avançar para Pagamento</string>
@@ -48,7 +48,7 @@
     <string name="quantity_decrease_desc">Diminuir quantidade</string>
     <string name="quantity_increase_desc">Aumentar quantidade</string>
     <string name="quantity_placeholder">1</string>
-    
+
     <!-- Resumo de Valores -->
     <string name="summary_subtotal">Subtotal</string>
     <string name="summary_discount">Descontos</string>
@@ -56,7 +56,7 @@
     <string name="price_subtotal_val">R$ 29,40</string>
     <string name="price_discount_val">- R$ 2,00</string>
     <string name="price_total_val">R$ 27,40</string>
-    
+
     <!-- Tela de Checkout / Pagamento -->
     <string name="payment_title">Pagamento</string>
     <string name="payment_total_label">Valor Total a Pagar</string>
@@ -66,7 +66,7 @@
     <string name="pay_voucher">Voucher / Vale Refeição</string>
     <string name="btn_finish_order">Confirmar e Finalizar</string>
     <string name="tv_alerta_dinheiro">Pagamento em dinheiro deve ser realizado diretamente com o atendente da cantina</string>
-    
+
     <!-- Tela de Confirmação / Sucesso -->
     <string name="success_title">Pedido Enviado!</string>
     <string name="success_message">Seu pedido foi registrado e encaminhado para a preparação na cozinha.</string>

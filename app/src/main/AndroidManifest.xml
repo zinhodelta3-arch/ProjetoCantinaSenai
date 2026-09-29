@@ -7,32 +7,30 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.CantinaAgil">
-        
+        <activity
+            android:name=".GerenciarProdutosActivity"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        
         <activity
             android:name=".CardapioActivity"
             android:exported="false" />
-            
         <activity
             android:name=".CarrinhoActivity"
             android:exported="false" />
-            
         <activity
             android:name=".PagamentoActivity"
             android:exported="false" />
-            
         <activity
             android:name=".SucessoActivity"
             android:exported="false" />
-            
     </application>
 
 </manifest>

@@ -24,5 +24,5 @@ public interface ProdutoDao {
     List<Produto> listarPorCategoria(String categoria);
 
     @Query("SELECT * FROM produtos WHERE id= :id LIMIT 1")
-    Produto listarPorId(int id);
+    Produto buscarPorId(int id);
 }

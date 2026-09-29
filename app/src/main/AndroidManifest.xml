@@ -8,6 +8,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CantinaAgil">
         <activity
+            android:name=".CadastroProdutoActivity"
+            android:exported="false" />
+        <activity
             android:name=".GerenciarProdutosActivity"
             android:exported="false" />
         <activity
